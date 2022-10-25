@@ -1,6 +1,6 @@
 👋 Hi, I’m @khanh2kjr
 
-_**I'm a Front end Developer. I like to resolve design problems, developing rich web experiences web applications.
+_**I'm a Front end Engineer. I like to resolve design problems, developing rich web experiences web applications.
 I use HTML / CSS and Javascript to produce responsive websites and web apps that provide users the best and most appropriate experience suited to their device and browser.**_
 
 <!---
